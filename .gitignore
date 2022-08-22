@@ -1,0 +1,15 @@
+Bayesian_R\.Rproj.user
+.Rproj.user
+.vscode
+
+*.log
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.out
+*.gz
+*.toc
